@@ -1,7 +1,9 @@
-fuarkingshredded.website
-------------------------
+[fuarkingshredded.website](https://faustzero1.codeberg.page/fuarkingshredded.website)
 
-An template example of website that is Fuarking Shredded.
+--------------------------
+
+An template example of website that is Fuarking Shredded.  
+Inspired by [bestmotherfucking.website](https://bestmotherfucking.website/)
 
 ---
 
