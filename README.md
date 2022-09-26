@@ -3,7 +3,7 @@ TFW (The Fuarkingshredded Website)
 
 [thefuarkingshredded.website](https://faustzero1.codeberg.page/thefuarkingshredded.website)
 
-An template example of website unlike bloated soydev website this website is Fuarking Shredded.  
+A website example that completely mog Bloated Soydev Website.
 Inspired by [bestmotherfucking.website](https://bestmotherfucking.website/)
 
 ---
