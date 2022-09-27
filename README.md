@@ -9,4 +9,4 @@ Inspired by [bestmotherfucking.website](https://bestmotherfucking.website/)
 ---
 
 Snapshot:  
-![thefuarkingshredded.website-snapshot](https://mstdn.starnix.network/system/media_attachments/files/109/066/570/151/866/033/original/cc0b7b2c37a5d643.png "Fuarking Shredded Website Snapshot") 
+![thefuarkingshredded.website-snapshot](https://mstdn.starnix.network/system/media_attachments/files/109/069/501/863/065/996/original/abaee9a8aa8f90db.png "Fuarking Shredded Website Snapshot") 
